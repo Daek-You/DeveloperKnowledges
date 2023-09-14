@@ -1,2 +1,9 @@
 # ComputerScience
-공부한 컴퓨터 공학 지식을 정리한 저장소입니다. 
+
+> **목차**
+
+
+## ✏️Algorithm
+### 내부 정렬
+> 비교 기반 정렬
+- [버블 정렬(Bubble Sort)](./Algorithm/버블%20정렬(Bubble%20Sort).md)
