@@ -26,4 +26,4 @@
 
 - [계수 정렬(Counting Sort)](계수%20정렬(Counting%20Sort).md)
 - [버킷 정렬(Bucket Sort)](버킷%20정렬(Bucket%20Sort).md)
-- 기수 정렬(Radix Sort)  
+- [기수 정렬(Radix Sort)](기수%20정렬(Radix%20Sort).md)  
