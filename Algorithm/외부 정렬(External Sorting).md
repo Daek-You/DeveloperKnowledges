@@ -1,4 +1,5 @@
-# 외부 정렬 (External Sorting)
+# 외부 정렬(External Sort)  
+
 - 정렬할 데이터를 보조기억장치(HDD, SSD)에서 정렬하는 방식  
 - 대용량의 데이터 정렬이 가능  
 - SQL의 order-by, group-by, join 등의 효율적인 처리를 위해 사용  

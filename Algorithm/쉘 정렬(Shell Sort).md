@@ -1,4 +1,4 @@
-# 쉘 정렬(Shell Sort)
+# 쉘 정렬(Shell Sort)  
 
 > **목차**  
 > 1. [쉘 정렬이란?](#1-쉘-정렬shell-sort이란)  

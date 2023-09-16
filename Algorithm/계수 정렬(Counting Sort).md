@@ -1,4 +1,4 @@
-# 계수 정렬(Counting Sort)
+# 계수 정렬(Counting Sort)  
 
 > **목차**  
 > 1. [계수 정렬이란?](#1-계수-정렬counting-sort이란)  
@@ -88,3 +88,4 @@ void CountingSort(const vector<int>& origin, vector<int>& result)
     원소는 2개밖에 없는데, 1000001개 크기의 카운팅 배열을 생성해야 함 → 엄청난 메모리 낭비
     ```
 - 따라서, `K`의 값이 `N`보다 훨씬 큰 경우에는 굉장히 성능이 나빠질 수 있음
+- `비제자리 정렬(Not-in-place sorting)`이다.

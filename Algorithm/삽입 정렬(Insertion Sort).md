@@ -1,4 +1,4 @@
-# 삽입 정렬(Insertion Sort)
+# 삽입 정렬(Insertion Sort)   
 
 > **목차**  
 > 1. [삽입 정렬이란?](#1-삽입-정렬insertion-sort이란)  

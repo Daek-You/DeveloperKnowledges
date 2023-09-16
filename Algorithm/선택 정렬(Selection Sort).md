@@ -1,4 +1,4 @@
-# 선택 정렬(Selection Sort)
+# 선택 정렬(Selection Sort)  
 
 > **목차**  
 > 1. [선택 정렬이란?](#1-선택-정렬selection-sort이란)  
