@@ -11,7 +11,7 @@
 ## 1. 버킷 정렬(Bucket Sort)이란?
 - 데이터 원소들을 `다양한 그룹(또는 버킷)`으로 나누고, 버킷마다 정렬한 후, 다시 합치는 방법  
 
-    ![버킷 정렬 예](https://scaler.com/topics/images/bucket-sort-with-integer-elements)  
+    ![버킷 정렬 예](https://scaler.com/topics/images/bucket-sort-with-integer-elements){: width="75%" height ="75%"}  
     - `버킷의 크기 = 1`이라면, **일반적인 계수 정렬**과 같다.
 
 - <u>데이터의 분포 특성을 활용</u>하는 방식
