@@ -15,7 +15,7 @@
 - [삽입 정렬 (Insertion Sort)](삽입%20정렬(Insertion%20Sort).md)
 - [쉘 정렬 (Shell Sort)](쉘%20정렬(Shell%20Sort).md)
 - [퀵 정렬 (Quick Sort)](퀵%20정렬(Quick%20Sort).md)  
-- 합병 정렬 (Merge Sort)
+- [병합 정렬 (Merge Sort)](병합%20정렬(Merge%20Sort).md)  
 - 힙 정렬 (Heap Sort)  
 
 <br>
