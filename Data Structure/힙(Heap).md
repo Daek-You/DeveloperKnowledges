@@ -20,8 +20,7 @@
 
 - `최대 트리(Max tree)` : "트리의 모든 노드"에 대해, **노드의 데이터 값 $\geq$ 자식 노드의 데이터 값**을 만족하는 트리
 - `최대 힙(Max heap)` : `최대 트리`이면서, `완전 이진 트리`  
-
-    ![최대 힙 예](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYmo2WSxBZLeH2LmuibFv2zbJvCKE3-mQ2g&usqp=CAU)  
+![Max heap](../Resources/Images/최대%20힙%20예.png)   
 
 <br>
 
@@ -29,8 +28,7 @@
 
 - `최소 트리(Min tree)` : "트리의 모든 노드"에 대해, **노드의 데이터 값 $\leq$ 자식 노드의 데이터 값**을 만족하는 트리
 - `최소 힙(Min heap)` : `최소 트리`이면서, `완전 이진 트리`  
-    
-    ![최소 힙 예](https://velog.velcdn.com/images/kon6443/post/bea41e22-4d75-4bf6-8e9c-ebeb705cff95/image.png)  
+![min heap](../Resources/Images/최소%20힙%20예.png)  
 
 <br>
 
