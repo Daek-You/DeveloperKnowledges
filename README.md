@@ -29,7 +29,7 @@
 - 수식 트리 (Expression Tree)
 - 분리 집합 (Disjoint Set)
 - 스레드 이진 트리 (Thread Binary Tree)
-- 힙(Heap)  
+- [힙(Heap)](./Data%20Structure/힙(Heap).md)    
 
 > 그래프(Graph)  
 - 그래프의 개념과 표현
