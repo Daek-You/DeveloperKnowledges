@@ -1,15 +1,15 @@
 # ComputerScience  
 
 > **목차**  
-> 1. [Data Structure](#✏️data-structure)  
-> 2. [Algorithm](#✏️algorithm)  
-> 3. [Operating System](#✏️operating-system)  
+> 1. [Data Structure](#1-data-structure)    
+> 2. [Algorithm](#2-algorithm)    
+> 3. [Operating System](#3-operating-system)    
 
 
 <br>
 
 ---
-# ✏️Data Structure  
+# 1. Data Structure  
 ### 1. 기본 개념
 - 자료구조의 정의(ADT, Abstract Data Type)와 표현법
 - 알고리즘의 정의와 표현
@@ -41,7 +41,7 @@
 <br>
 
 ---
-# ✏️Algorithm
+# 2. Algorithm
 ### 1. 정렬 (Sorting)
 - [내부 정렬(Internal Sorting)](./Algorithm/내부%20정렬(Internal%20Sorting).md)
 - [외부 정렬(External Sorting)](./Algorithm/외부%20정렬(External%20Sorting).md)    
@@ -50,5 +50,5 @@
 <br>
 
 ---
-# ✏️Operating System
+# 3. Operating System
 
