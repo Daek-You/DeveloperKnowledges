@@ -4,14 +4,14 @@ Computer Science 지식을 정리하여 공부한 노트입니다.
 코드 구현은 [C++](./C++/C++.md) 언어로 작성되었습니다.  
 
 > **목차**  
-> 1. [Data Structure](#✏️data-structure)  
-> 2. [Algorithm](#✏️algorithm)  
-> 3. [Operating System](#✏️operating-system)  
+> 1. [Data Structure](#data-structure)  
+> 2. [Algorithm](#algorithm)  
+> 3. [Operating System](#operating-system)  
 
 <br>
 
 ---
-# ✏️Data Structure  
+# Data Structure  
 ### 1. 기본 개념
 - [자료구조의 정의(ADT, Abstract Data Type)와 표현법](./Data%20Structure/자료구조의%20정의%20및%20표현.md)  
 - [알고리즘의 정의와 표현](./Data%20Structure/알고리즘의%20정의와%20표현.md)
@@ -43,7 +43,7 @@ Computer Science 지식을 정리하여 공부한 노트입니다.
 <br>
 
 ---
-# ✏️Algorithm
+# Algorithm
 ### 1. 정렬 (Sorting)
 - [내부 정렬(Internal Sorting)](./Algorithm/내부%20정렬(Internal%20Sorting).md)
 - [외부 정렬(External Sorting)](./Algorithm/외부%20정렬(External%20Sorting).md)  
@@ -55,5 +55,5 @@ Computer Science 지식을 정리하여 공부한 노트입니다.
 <br>
 
 ---
-# ✏️Operating System
+# Operating System
 
