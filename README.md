@@ -1,21 +1,19 @@
 # ComputerScience  
 
-Computer Science 지식을 정리하여 공부한 제 노트입니다.  
+Computer Science 지식을 정리하여 공부한 노트입니다.  
 코드 구현은 [C++](./C++/C++.md) 언어로 작성되었습니다.  
-
 
 > **목차**  
 > 1. [Data Structure](#✏️data-structure)  
 > 2. [Algorithm](#✏️algorithm)  
 > 3. [Operating System](#✏️operating-system)  
 
-
 <br>
 
 ---
 # ✏️Data Structure  
 ### 1. 기본 개념
-- 자료구조의 정의(ADT, Abstract Data Type)와 표현법
+- [자료구조의 정의(ADT, Abstract Data Type)와 표현법](./Data%20Structure/1.%20자료구조의%20정의%20및%20표현.md)  
 - 알고리즘의 정의와 표현
 - 알고리즘의 복잡도 계산  
 
