@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/버블 정렬(Bubble Sort).md",
+                "file": "Data Structure/알고리즘의 복잡도 계산.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/버블 정렬(Bubble Sort).md",
+                "file": "Data Structure/알고리즘의 복잡도 계산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/버블 정렬(Bubble Sort).md",
+                "file": "Data Structure/알고리즘의 복잡도 계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/버블 정렬(Bubble Sort).md"
+                "file": "Data Structure/알고리즘의 복잡도 계산.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "f32acef704ac5be8",
   "lastOpenFiles": [
-    "Data Structure/자료구조의 정의 및 표현.md",
     "README.md",
     "Data Structure/알고리즘의 정의와 표현.md",
+    "Data Structure/자료구조의 정의 및 표현.md",
+    "Data Structure/알고리즘의 복잡도 계산.md",
     "Algorithm/버블 정렬(Bubble Sort).md",
     "Algorithm/내부 정렬(Internal Sorting).md"
   ]
