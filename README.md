@@ -9,9 +9,9 @@
 
 # Data Structure  
 ### 1. 기본 개념
-- [자료구조의 정의(ADT, Abstract Data Type)와 표현법](./Data%20Structure/자료구조의%20정의%20및%20표현.md)  
-- [알고리즘의 정의와 표현](./Data%20Structure/알고리즘의%20정의와%20표현.md)
-- [알고리즘의 복잡도 계산](./Data%20Structure/알고리즘의%20복잡도%20계산.md)  
+- [**자료구조의 정의(ADT, Abstract Data Type)와 표현법**](./Data%20Structure/자료구조의%20정의%20및%20표현.md)  
+- [**알고리즘의 정의와 표현**](./Data%20Structure/알고리즘의%20정의와%20표현.md)
+- [**알고리즘의 복잡도 계산**](./Data%20Structure/알고리즘의%20복잡도%20계산.md)  
 
 ### 2. 선형 자료구조
 - 배열 (Array)
