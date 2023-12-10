@@ -9,12 +9,12 @@
 
 # 🗃️Data Structure  
 ### 1. 기본 개념
-- [**자료구조의 정의(ADT, Abstract Data Type)와 표현법**](./Data%20Structure/자료구조의%20정의%20및%20표현.md)  
-- [**알고리즘의 정의와 표현**](./Data%20Structure/알고리즘의%20정의와%20표현.md)
-- [**알고리즘의 복잡도 계산**](./Data%20Structure/알고리즘의%20복잡도%20계산.md)  
+- [**자료구조의 정의(ADT, Abstract Data Type)와 표현법**](./DataStructure/자료구조의%20정의%20및%20표현.md)  
+- [**알고리즘의 정의와 표현**](./DataStructure/알고리즘의%20정의와%20표현.md)
+- [**알고리즘의 복잡도 계산**](./DataStructure/알고리즘의%20복잡도%20계산.md)  
 
 ### 2. 선형 자료구조
-- [**리스트(List)**](./Data%20Structure/리스트(List).md)
+- [**리스트(List)**](./DataStructure/리스트(List).md)
 - 스택 (Stack)
 - 큐 (Queue)
 - 데크 (Deque)  
@@ -29,7 +29,7 @@
 - 힙(Heap)  
 
 #### 그래프(Graph)
-- 그래프의 개념과 표현
+- [**그래프의 개념과 표현**](./DataStructure/그래프(Graph).md)
 - 기초적인 그래프 연산들
 - 최소 신장 트리
 - 최단 경로
@@ -38,17 +38,29 @@
 <br>
 
 ---
-# Algorithm
+# ✏️Algorithm
 ### 1. 정렬 (Sorting)
-- [내부 정렬(Internal Sorting)](./Algorithm/내부%20정렬(Internal%20Sorting).md)
-- [외부 정렬(External Sorting)](./Algorithm/외부%20정렬(External%20Sorting).md)  
+- [**내부 정렬(Internal Sorting)**](./Algorithm/Sorting/내부%20정렬(Internal%20Sorting).md)
+- [**외부 정렬(External Sorting)**](./Algorithm/Sorting/외부%20정렬(External%20Sorting).md)  
 
 ### 2. 탐색 (Searching)  
 
+...
+### 그래프 알고리즘 (Graph Algorithm)
+#### 탐색
+- DFS(Depth First Search)
+- BFS(Breadth First Search)
 
+#### 정렬
+- 위상 정렬(Topological Sort)
 
-<br>
+#### 최소 신장 트리(Minimum Spanning Tree)
+- [**유니온 파인드(Union-Find)**](./Algorithm/Graph/유니온%20파인드(Union-Find).md)
+- [**크루스칼 알고리즘(Kruskal's Algorithm)**](./Algorithm/Graph/크루스칼%20알고리즘(Kruskal's%20Algorithm).md)
+- 프림 알고리즘(Prim's Algorithm)
 
----
-# Operating System
-
+#### 최단 경로(Shortest Path)
+- 다익스트라 알고리즘(Dijkstra Algorithm)
+- 벨만 포드 알고리즘(Bellman-Ford Algorithm)
+- 플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)
+- A-star Algorithm

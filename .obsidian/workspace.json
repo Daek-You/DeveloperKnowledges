@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/리스트(List).md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/리스트(List).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/리스트(List).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/리스트(List).md"
+                "file": "README.md"
               }
             }
           }
@@ -150,23 +150,41 @@
   },
   "active": "ed70e606bc035e15",
   "lastOpenFiles": [
+    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "README.md",
+    "Algorithm/Graph/유니온 파인드(Union-Find).md",
+    "DataStructure/그래프(Graph).md",
+    "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
+    "Algorithm/Graph/최소 신장 트리(Minimum Spanning Tree).md",
+    "Algorithm/Graph/BFS(Breadth First Search).md",
+    "Algorithm/Graph/위상 정렬(Topological Sort).md",
+    "Algorithm/Sorting/삽입 정렬(Insertion Sort).md",
+    "Algorithm/Sorting/선택 정렬(Selection Sort).md",
+    "DataStructure/자료구조의 정의 및 표현.md",
+    "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
+    "Algorithm/Sorting/쉘 정렬(Shell Sort).md",
+    "Algorithm/Sorting/퀵 정렬(Quick Sort).md",
+    "Algorithm/Sorting/병합 정렬(Merge Sort).md",
+    "Algorithm/Sorting/힙 정렬(Heap Sort).md",
+    "Algorithm/Sorting/기수 정렬(Radix Sort).md",
+    "Algorithm/Sorting/계수 정렬(Counting Sort).md",
+    "Algorithm/Sorting/버킷 정렬(Bucket Sort).md",
+    "Algorithm/Sorting/외부 정렬(External Sorting).md",
+    "DataStructure/리스트(List).md",
+    "DataStructure/알고리즘의 정의와 표현.md",
+    "DataStructure/알고리즘의 복잡도 계산.md",
+    "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
+    "탐욕법(Greedy).md",
+    "Algorithm/Graph/DFS(Depth First Search).md",
+    "DataStructure",
+    "Algorithm/Sorting",
+    "Algorithm/새 폴더",
+    "Algorithm/Graph",
+    "Data Structure/Graph",
     "Resources/Images/리스트.png",
-    "Data Structure/리스트(List).md",
-    "Data-Structure/리스트(List).md",
     "Data-Structure",
-    "Data Structure/힙(Heap).md",
     "Pasted image 20231210103904.png",
-    "Excalidraw/Drawing 2023-12-10 10.29.49.excalidraw.md",
-    "!Pasted.md",
     "링크드 리스트.png",
-    "Excalidraw",
-    "Data Structure/배열(Array).md",
-    "Algorithm/계수 정렬(Counting Sort).md",
-    "Data Structure/알고리즘의 복잡도 계산.md",
-    "Data Structure/알고리즘의 정의와 표현.md",
-    "Data Structure/자료구조의 정의 및 표현.md",
-    "Algorithm/버블 정렬(Bubble Sort).md",
-    "Algorithm/내부 정렬(Internal Sorting).md"
+    "Excalidraw"
   ]
 }
