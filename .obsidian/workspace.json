@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure/그래프(Graph).md",
-                "mode": "source",
+                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/그래프(Graph).md",
+                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/그래프(Graph).md",
+                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure/그래프(Graph).md"
+                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "ed70e606bc035e15",
   "lastOpenFiles": [
-    "README.md",
-    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "Algorithm/Graph/유니온 파인드(Union-Find).md",
+    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+    "README.md",
     "DataStructure/그래프(Graph).md",
     "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
     "Algorithm/Graph/최소 신장 트리(Minimum Spanning Tree).md",
