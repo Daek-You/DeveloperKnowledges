@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DataStructure/그래프(Graph).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DataStructure/그래프(Graph).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DataStructure/그래프(Graph).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DataStructure/그래프(Graph).md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "ed70e606bc035e15",
   "lastOpenFiles": [
-    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "README.md",
+    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "Algorithm/Graph/유니온 파인드(Union-Find).md",
     "DataStructure/그래프(Graph).md",
     "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
