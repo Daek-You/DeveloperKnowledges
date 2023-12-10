@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리스트(List).md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리스트(List).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리스트(List).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리스트(List).md"
+                "file": "README.md"
               }
             }
           }
@@ -144,20 +144,23 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ed70e606bc035e15",
   "lastOpenFiles": [
+    "Data Structure/리스트(List).md",
+    "README.md",
+    "Data-Structure/리스트(List).md",
+    "Data-Structure",
+    "Data Structure/힙(Heap).md",
     "Resources/Images/리스트.png",
     "Pasted image 20231210103904.png",
-    "리스트(List).md",
     "Excalidraw/Drawing 2023-12-10 10.29.49.excalidraw.md",
     "!Pasted.md",
     "링크드 리스트.png",
-    "README.md",
     "Excalidraw",
-    "Data Structure/힙(Heap).md",
     "Data Structure/배열(Array).md",
     "Algorithm/계수 정렬(Counting Sort).md",
     "Data Structure/알고리즘의 복잡도 계산.md",

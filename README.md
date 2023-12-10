@@ -14,7 +14,7 @@
 - [**알고리즘의 복잡도 계산**](./Data%20Structure/알고리즘의%20복잡도%20계산.md)  
 
 ### 2. 선형 자료구조
-- 리스트 (List)
+- [**리스트(List)**](./Data%20Structure/리스트(List).md)
 - 스택 (Stack)
 - 큐 (Queue)
 - 데크 (Deque)  
