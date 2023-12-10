@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09f299083f4b6ced",
+        "id": "b0044aab171337d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f32acef704ac5be8",
+            "id": "ed70e606bc035e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/알고리즘의 복잡도 계산.md",
+                "file": "리스트(List).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/알고리즘의 복잡도 계산.md",
+                "file": "리스트(List).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/알고리즘의 복잡도 계산.md",
+                "file": "리스트(List).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/알고리즘의 복잡도 계산.md"
+                "file": "리스트(List).md"
               }
             }
           }
@@ -143,15 +143,26 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f32acef704ac5be8",
+  "active": "ed70e606bc035e15",
   "lastOpenFiles": [
+    "Resources/Images/리스트.png",
+    "Pasted image 20231210103904.png",
+    "리스트(List).md",
+    "Excalidraw/Drawing 2023-12-10 10.29.49.excalidraw.md",
+    "!Pasted.md",
+    "링크드 리스트.png",
     "README.md",
+    "Excalidraw",
+    "Data Structure/힙(Heap).md",
+    "Data Structure/배열(Array).md",
+    "Algorithm/계수 정렬(Counting Sort).md",
+    "Data Structure/알고리즘의 복잡도 계산.md",
     "Data Structure/알고리즘의 정의와 표현.md",
     "Data Structure/자료구조의 정의 및 표현.md",
-    "Data Structure/알고리즘의 복잡도 계산.md",
     "Algorithm/버블 정렬(Bubble Sort).md",
     "Algorithm/내부 정렬(Internal Sorting).md"
   ]
