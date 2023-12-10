@@ -37,7 +37,7 @@ $$ G = (V, E) $$
 
 ### 1) 인접 행렬(Adjacent Matrix)
 
-$$ A = \begin{bmatrix} 0 & 1 & 1\\1 & 0 & 0\\1 & 0 & 0 \end{bmatrix}$$  
+$$ A = \begin{bmatrix} 0 & 1 & 1 \\\ 1 & 0 & 0 \\\ 1 & 0 & 0 \end{bmatrix}$$  
 
 - 정점의 개수를 $N$ 이라고 한다면, $N \times N$ 행렬로 인접 여부를 표현하는 방식
 - $(\mathrm{Row}, \ \mathrm{column})$ 으로 표현하며, 두 정점이 인접했다면 `1`, 아니라면 `0`으로 표현
