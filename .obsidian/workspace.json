@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md"
               }
             }
           }
@@ -150,18 +150,18 @@
   },
   "active": "1967d3d2d901d16e",
   "lastOpenFiles": [
+    "README.md",
+    "Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
+    "Algorithm/Graph/다익스트라 알고리즘(Dijkstra Algorithm).md",
     "Algorithm/Sorting/기수 정렬(Radix Sort).md",
     "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
     "Algorithm/Sorting/버킷 정렬(Bucket Sort).md",
     "Algorithm/Sorting/계수 정렬(Counting Sort).md",
     "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
-    "README.md",
     "DataStructure/리스트(List).md",
     "DataStructure/알고리즘의 정의와 표현.md",
     "DataStructure/힙(Heap).md",
     "DataStructure/그래프(Graph).md",
-    "Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
-    "Algorithm/Graph/다익스트라 알고리즘(Dijkstra Algorithm).md",
     "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "탐욕법(Greedy).md",
     "Algorithm/Graph/유니온 파인드(Union-Find).md",
