@@ -1,8 +1,5 @@
-**`그래프`** **`Disjoint-Set`** **`분리집합`** **`서로소집합`** **`상호베타적집합`**   
-🔗[위키백과 - 서로소 집합 자료구조](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%A1%9C%EC%86%8C_%EC%A7%91%ED%95%A9_%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)  
-
-
-## 소개
+## 유니온 파인드(Union-Find)
+**`#그래프`** **`#Disjoint-Set`** **`#분리 집합`** **`#서로소 집합`** **`#상호베타적 집합`**   
 
 ![유니온 파인드](https://i.imgur.com/1tr43yL.png)
 

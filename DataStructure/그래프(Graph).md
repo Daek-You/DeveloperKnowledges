@@ -1,7 +1,6 @@
-**`비선형 자료구조`** 
-
-
 ## 1. 그래프의 기본 개념 및 용어
+
+**`#비선형 자료구조`** 
 
 ![자료구조 그래프](https://velog.velcdn.com/images%2Felma98%2Fpost%2Fe3da79e4-cde5-47d2-9eda-e15a21b35f7f%2Fgraph.png)
 
