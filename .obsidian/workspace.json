@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+                "file": "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+                "file": "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+                "file": "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md"
+                "file": "Algorithm/Sorting/내부 정렬(Internal Sorting).md"
               }
             }
           }
@@ -144,38 +144,38 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ed70e606bc035e15",
   "lastOpenFiles": [
-    "Algorithm/Graph/유니온 파인드(Union-Find).md",
-    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
-    "README.md",
-    "DataStructure/그래프(Graph).md",
-    "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
-    "Algorithm/Graph/최소 신장 트리(Minimum Spanning Tree).md",
-    "Algorithm/Graph/BFS(Breadth First Search).md",
-    "Algorithm/Graph/위상 정렬(Topological Sort).md",
-    "Algorithm/Sorting/삽입 정렬(Insertion Sort).md",
-    "Algorithm/Sorting/선택 정렬(Selection Sort).md",
-    "DataStructure/자료구조의 정의 및 표현.md",
-    "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
     "Algorithm/Sorting/쉘 정렬(Shell Sort).md",
+    "Algorithm/Sorting/삽입 정렬(Insertion Sort).md",
+    "Algorithm/Sorting/내부 정렬(Internal Sorting).md",
     "Algorithm/Sorting/퀵 정렬(Quick Sort).md",
     "Algorithm/Sorting/병합 정렬(Merge Sort).md",
     "Algorithm/Sorting/힙 정렬(Heap Sort).md",
+    "DataStructure/힙(Heap).md",
+    "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
+    "Algorithm/Sorting/선택 정렬(Selection Sort).md",
+    "README.md",
+    "DataStructure/그래프(Graph).md",
+    "DataStructure/리스트(List).md",
+    "DataStructure/알고리즘의 복잡도 계산.md",
+    "DataStructure/알고리즘의 정의와 표현.md",
+    "DataStructure/자료구조의 정의 및 표현.md",
+    "Algorithm/Graph/유니온 파인드(Union-Find).md",
+    "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
+    "Algorithm/Graph/최소 신장 트리(Minimum Spanning Tree).md",
+    "Algorithm/Graph/BFS(Breadth First Search).md",
+    "Algorithm/Graph/위상 정렬(Topological Sort).md",
     "Algorithm/Sorting/기수 정렬(Radix Sort).md",
     "Algorithm/Sorting/계수 정렬(Counting Sort).md",
     "Algorithm/Sorting/버킷 정렬(Bucket Sort).md",
     "Algorithm/Sorting/외부 정렬(External Sorting).md",
-    "DataStructure/리스트(List).md",
-    "DataStructure/알고리즘의 정의와 표현.md",
-    "DataStructure/알고리즘의 복잡도 계산.md",
     "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
     "탐욕법(Greedy).md",
-    "Algorithm/Graph/DFS(Depth First Search).md",
     "DataStructure",
     "Algorithm/Sorting",
     "Algorithm/새 폴더",

@@ -19,7 +19,6 @@
 
 ![선택 정렬 시뮬레이션](https://github.com/GimunLee/tech-refrigerator/raw/master/Algorithm/resources/selection-sort-001.gif)  
 출처: [Tech Interview](https://gyoogle.dev/blog/algorithm/Selection%20Sort.html)  
-
 <br>
 
 ## 3. C++로 구현한 선택 정렬
