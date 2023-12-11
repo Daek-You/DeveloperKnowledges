@@ -57,10 +57,10 @@
 #### 최소 신장 트리(Minimum Spanning Tree)
 - [**유니온 파인드(Union-Find)**](./Algorithm/Graph/유니온%20파인드(Union-Find).md)
 - [**크루스칼 알고리즘(Kruskal's Algorithm)**](./Algorithm/Graph/크루스칼%20알고리즘(Kruskal's%20Algorithm).md)
-- 프림 알고리즘(Prim's Algorithm)
+- [**프림 알고리즘(Prim's Algorithm)**](./Algorithm/Graph/프림%20알고리즘(Prim's%20Algorithm).md)
 
 #### 최단 경로(Shortest Path)
-- 다익스트라 알고리즘(Dijkstra Algorithm)
-- 벨만 포드 알고리즘(Bellman-Ford Algorithm)
-- 플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)
+- [**다익스트라 알고리즘(Dijkstra Algorithm)**](./Algorithm/Graph/다익스트라%20알고리즘(Dijkstra%20Algorithm).md)
+- [**벨만 포드 알고리즘(Bellman-Ford Algorithm)**](./Algorithm/Graph/벨만%20포드%20알고리즘(Bellman-Ford%20Algorithm).md)
+- ~~[**플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)**](./Algorithm/Graph/플로이드-워셜%20알고리즘(Floyd-Warshall%20Algorithm).md)~~
 - A-star Algorithm
