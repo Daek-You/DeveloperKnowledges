@@ -22,6 +22,7 @@
 4. $\mathrm{mid} < x$ 라면, **`left`** = $\mathrm{mid} + 1$ 로 탐색 범위를 줄인다.
 5. $x == \mathrm{mid}$ 이거나, **`right < left`** 가 될 때까지 1 ~ 3번 과정을 반복한다.  
 <br>
+
 ```cpp
 
 template<typename T>
@@ -40,6 +41,7 @@ T BinarySearch(const vector<T>& arr, T target) {
 	}
 }
 ```  
+
 <br>
 
 ## Lower Bound와 Upper Bound

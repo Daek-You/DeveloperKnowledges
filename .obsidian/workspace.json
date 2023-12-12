@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithm/Searching/이진 탐색(Binary Search).md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "1967d3d2d901d16e",
   "lastOpenFiles": [
+    "README.md",
     "Algorithm/Searching/이진 탐색(Binary Search).md",
     "DataStructure/이진 탐색 트리(Binary Search Tree).md",
-    "README.md",
     "DataStructure/리스트(List).md",
     "Algorithm/Searching/선형 탐색(Linear Search).md",
     "Algorithm/Searching",
