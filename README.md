@@ -9,43 +9,59 @@
 
 # 🗃️Data Structure  
 ### 1. 기본 개념
+
 - [**자료구조의 정의(ADT, Abstract Data Type)와 표현법**](./DataStructure/자료구조의%20정의%20및%20표현.md)  
 - [**알고리즘의 정의와 표현**](./DataStructure/알고리즘의%20정의와%20표현.md)
 - [**알고리즘의 복잡도 계산**](./DataStructure/알고리즘의%20복잡도%20계산.md)  
 
 ### 2. 선형 자료구조
+
+- 배열(Array)
 - [**리스트(List)**](./DataStructure/리스트(List).md)
 - 스택 (Stack)
 - 큐 (Queue)
 - 데크 (Deque)  
 
+
 ### 3. 비선형 자료구조
 #### 트리(Tree)
+
 - 트리의 개념
 - 이진 트리 (Binary Tree)와 순회 (Traversal)
+- 이진 탐색 트리(Binary Search Tree)
+- 균형 이진 트리(Balanced Binary Tree)
 - 수식 트리 (Expression Tree)
-- 분리 집합 (Disjoint Set)
+- [**분리 집합 (Disjoint Set)**](./Algorithm/Graph/유니온%20파인드(Union-Find).md)
 - 스레드 이진 트리 (Thread Binary Tree)
 - [**힙(Heap)**](./DataStructure/힙(Heap).md)  
 
 #### 그래프(Graph)
+
 - [**그래프의 개념과 표현**](./DataStructure/그래프(Graph).md)
 - 기초적인 그래프 연산들
 - 최소 신장 트리
 - 최단 경로
 - 작업 네트워크
 
+#### 해시(Hash)
+
+- 해시 테이블(Hash Table)  
+
 <br>
 
 ---
 # ✏️Algorithm
 ### 1. 정렬 (Sorting)
+
 - [**내부 정렬(Internal Sorting)**](./Algorithm/Sorting/내부%20정렬(Internal%20Sorting).md)
 - [**외부 정렬(External Sorting)**](./Algorithm/Sorting/외부%20정렬(External%20Sorting).md)  
 
 ### 2. 탐색 (Searching)  
 
-...
+- [**선형 탐색(Linear Search)**](./Algorithm/Searching/선형%20탐색(Linear%20Search).md)
+- [**이진 탐색(Binary Search)**](./Algorithm/Searching/이진%20탐색(Binary%20Search).md)
+- 해시 탐색(Hash Search)
+
 ### 그래프 알고리즘 (Graph Algorithm)
 #### 탐색
 - DFS(Depth First Search)

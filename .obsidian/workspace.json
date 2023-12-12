@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md"
+                "file": "README.md"
               }
             }
           }
@@ -144,13 +144,21 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1967d3d2d901d16e",
   "lastOpenFiles": [
+    "Algorithm/Searching/이진 탐색(Binary Search).md",
+    "DataStructure/이진 탐색 트리(Binary Search Tree).md",
     "README.md",
+    "DataStructure/리스트(List).md",
+    "Algorithm/Searching/선형 탐색(Linear Search).md",
+    "Algorithm/Searching",
+    "Algorithm/Graph/유니온 파인드(Union-Find).md",
+    "DataStructure/힙(Heap).md",
+    "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
     "Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
     "Algorithm/Graph/다익스트라 알고리즘(Dijkstra Algorithm).md",
     "Algorithm/Sorting/기수 정렬(Radix Sort).md",
@@ -158,14 +166,10 @@
     "Algorithm/Sorting/버킷 정렬(Bucket Sort).md",
     "Algorithm/Sorting/계수 정렬(Counting Sort).md",
     "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
-    "DataStructure/리스트(List).md",
     "DataStructure/알고리즘의 정의와 표현.md",
-    "DataStructure/힙(Heap).md",
     "DataStructure/그래프(Graph).md",
     "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "탐욕법(Greedy).md",
-    "Algorithm/Graph/유니온 파인드(Union-Find).md",
-    "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
     "Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
     "Algorithm/Sorting/힙 정렬(Heap Sort).md",
     "Algorithm/Sorting/쉘 정렬(Shell Sort).md",
@@ -173,9 +177,6 @@
     "Algorithm/Sorting/퀵 정렬(Quick Sort).md",
     "Algorithm/Sorting/병합 정렬(Merge Sort).md",
     "Algorithm/Sorting/선택 정렬(Selection Sort).md",
-    "DataStructure/알고리즘의 복잡도 계산.md",
-    "DataStructure/자료구조의 정의 및 표현.md",
-    "Algorithm/Graph/최소 신장 트리(Minimum Spanning Tree).md",
     "DataStructure",
     "Algorithm/Sorting",
     "Algorithm/새 폴더",
