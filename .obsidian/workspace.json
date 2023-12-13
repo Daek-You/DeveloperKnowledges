@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214.5
   },
   "right": {
     "id": "d2ecf4e72f313197",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Searching/이진 탐색(Binary Search).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Searching/이진 탐색(Binary Search).md"
+                "file": "README.md"
               }
             }
           }
@@ -150,13 +150,17 @@
   },
   "active": "1967d3d2d901d16e",
   "lastOpenFiles": [
+    "Algorithm/Graph/유니온 파인드(Union-Find).md",
     "README.md",
-    "Algorithm/Searching/이진 탐색(Binary Search).md",
+    "DataStructure/그래프(Graph).md",
+    "DataStructure/이진 트리(Binary Tree).md",
+    "DataStructure/수식 트리(Expression Tree).md",
     "DataStructure/이진 탐색 트리(Binary Search Tree).md",
+    "DataStructure/트리(Tree)의 개념.md",
+    "Algorithm/Searching/이진 탐색(Binary Search).md",
     "DataStructure/리스트(List).md",
     "Algorithm/Searching/선형 탐색(Linear Search).md",
     "Algorithm/Searching",
-    "Algorithm/Graph/유니온 파인드(Union-Find).md",
     "DataStructure/힙(Heap).md",
     "Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
     "Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
@@ -167,16 +171,12 @@
     "Algorithm/Sorting/계수 정렬(Counting Sort).md",
     "Algorithm/Sorting/버블 정렬(Bubble Sort).md",
     "DataStructure/알고리즘의 정의와 표현.md",
-    "DataStructure/그래프(Graph).md",
     "Algorithm/Graph/크루스칼 알고리즘(Kruskal's Algorithm).md",
     "탐욕법(Greedy).md",
     "Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
     "Algorithm/Sorting/힙 정렬(Heap Sort).md",
     "Algorithm/Sorting/쉘 정렬(Shell Sort).md",
     "Algorithm/Sorting/삽입 정렬(Insertion Sort).md",
-    "Algorithm/Sorting/퀵 정렬(Quick Sort).md",
-    "Algorithm/Sorting/병합 정렬(Merge Sort).md",
-    "Algorithm/Sorting/선택 정렬(Selection Sort).md",
     "DataStructure",
     "Algorithm/Sorting",
     "Algorithm/새 폴더",

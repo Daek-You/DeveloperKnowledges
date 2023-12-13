@@ -26,27 +26,32 @@
 ### 3. 비선형 자료구조
 #### 트리(Tree)
 
-- 트리의 개념
-- 이진 트리 (Binary Tree)와 순회 (Traversal)
-- 이진 탐색 트리(Binary Search Tree)
-- 균형 이진 트리(Balanced Binary Tree)
-- 수식 트리 (Expression Tree)
+- [**트리의 개념**](./DataStructure/트리(Tree)의%20개념.md)
+- [**이진 트리(Binary Tree)**](./DataStructure/이진%20트리(Binary%20Tree).md)
+- ~~[**수식 트리 (Expression Tree)**](./DataStructure/수식%20트리(Expression%20Tree).md)~~
 - [**분리 집합 (Disjoint Set)**](./Algorithm/Graph/유니온%20파인드(Union-Find).md)
-- 스레드 이진 트리 (Thread Binary Tree)
+- 스레드 이진 트리 (Thread Binary Tree)  
 - [**힙(Heap)**](./DataStructure/힙(Heap).md)  
+- ~~[**이진 탐색 트리(Binary Search Tree)**](./DataStructure/이진%20탐색%20트리(Binary%20Search%20Tree).md)~~
+- 균형 이진 탐색 트리(Balanced Binary Search Tree)
+- 2-3 Tree, 2-3-4 Tree
+- B-Tree 시리즈
+- 트라이(Trie)
 
 #### 그래프(Graph)
 
 - [**그래프의 개념과 표현**](./DataStructure/그래프(Graph).md)
 - 기초적인 그래프 연산들
 - 최소 신장 트리
-- 최단 경로
 - 작업 네트워크
+- DFS(Depth First Search)
+- BFS(Breadth First Search)
 
 #### 해시(Hash)
 
 - 해시 테이블(Hash Table)  
-
+- 체이닝(Chaining)
+- 개방 주소법(Open Addressing)
 <br>
 
 ---
@@ -62,12 +67,16 @@
 - [**이진 탐색(Binary Search)**](./Algorithm/Searching/이진%20탐색(Binary%20Search).md)
 - 해시 탐색(Hash Search)
 
-### 그래프 알고리즘 (Graph Algorithm)
-#### 탐색
-- DFS(Depth First Search)
-- BFS(Breadth First Search)
+### 3. 문자열 매칭(String Matching)
 
-#### 정렬
+- 라빈 카프 알고리즘(Rabin-Karp Algorithm)
+- KMP 알고리즘(Knuth Morris Prett Algorithm)
+- 보이어-무어 알고리즘(Boyer-Moore Algorithm)  
+- 정규 표현식(Regular Expression)
+
+### 4. 그래프 알고리즘 (Graph Algorithm)
+
+#### 그래프(Graph)
 - 위상 정렬(Topological Sort)
 
 #### 최소 신장 트리(Minimum Spanning Tree)
@@ -80,3 +89,7 @@
 - [**벨만 포드 알고리즘(Bellman-Ford Algorithm)**](./Algorithm/Graph/벨만%20포드%20알고리즘(Bellman-Ford%20Algorithm).md)
 - ~~[**플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)**](./Algorithm/Graph/플로이드-워셜%20알고리즘(Floyd-Warshall%20Algorithm).md)~~
 - A-star Algorithm
+<br>
+
+### 5. 문제 해결
+
