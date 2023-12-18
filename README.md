@@ -76,8 +76,10 @@
 
 ### 4. 그래프 알고리즘 (Graph Algorithm)
 
-#### 그래프(Graph)
-- 위상 정렬(Topological Sort)
+- [**위상 정렬(Topological Sort)**](./Algorithm/Graph/위상%20정렬(Topological%20Sort).md)
+- 강한 결합 요소(Strongly Connected Component)
+- 네트워크 플로우(Network Flow)
+- 이분 매칭(Bipartite Matching)
 
 #### 최소 신장 트리(Minimum Spanning Tree)
 - [**유니온 파인드(Union-Find)**](./Algorithm/Graph/유니온%20파인드(Union-Find).md)
@@ -92,4 +94,8 @@
 <br>
 
 ### 5. 문제 해결
+
+#### 탐욕법(Greedy)
+
+#### 동적 계획법(Dynamic Programming)
 

@@ -93,7 +93,7 @@ int main() {
 
 ## 성능 측정
 
-$$ \mathrm{(V+E) \cdot log(N)}$$
+$$ \mathrm{O((V+E) \cdot log(N))}$$
 <br>
 
 > $\mathrm{V}$ : `정점(Vertex)`의 개수,  $\mathrm{E}$ : `간선(Edge)`의 개수
