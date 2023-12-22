@@ -1,4 +1,3 @@
-
 ## 1. 이진 트리(Binary Tree)란?
 
 ![이진 트리](https://i.namu.wiki/i/59LWn3f8_eNGViAn3B4Fn7PDpL802gevs7nPz-hAd3epT2eKPI7bFA7ZyWgvs__ggzq4BJFEm-fyRELROJFf_A5VSdJks7RwrRSWq7gr-r6ROZkz8FF0kkekmAlOYGGS4ZEKYh9MYdWn4rk_ieN-AA.gif)  

@@ -1,5 +1,5 @@
 ## 1. 힙 정렬(Heap Sort)이란?
-- [**힙(Heap)**](../../DataStructure/힙(Heap).md) 자료구조를 기반으로 한 정렬 방식  
+- [**힙(Heap)**](힙(Heap).md) 자료구조를 기반으로 한 정렬 방식  
 - [**병합 정렬**](병합%20정렬(Merge%20Sort).md)과 다르게, 추가적인 메모리를 요구하지 않음
 - 항상 $\mathrm{O(N \times logN)}$ 의 일정한 성능을 보여줌  
 <br>
