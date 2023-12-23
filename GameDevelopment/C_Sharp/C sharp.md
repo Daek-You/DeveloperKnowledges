@@ -1,14 +1,15 @@
+- [Delegate vs. Event](Delegate%20vs.%20Event.md)
+- [Boxing and UnBoxing](Boxing%20And%20UnBoxing.md)
+- [Const vs. Readonly](Const%20vs.%20Readonly.md)
+- [Reflection And Attribute](Reflection%20And%20Attribute.md)
+- Serialization And Deserialization
+- Generic Collections
 
+## Framework
+- CTS(Common Type System)
+- [CLR(Common Language Runtime)](CLR%20(Common%20Language%20Runtime).md)
 
-### `const` vs. `readonly`
-- `const`는 컴파일 타임 상수 변수.
-	- 암시적으로 정적 속성을 가지며, 한번 값이 정해지면 재컴파일 하지 않는 이상 변경할 수 없다.
-- `readonly`는 런타임 상수 변수.
-	- 생성자에서 값을 1번 변경할 수 있다는 특징이 있으며, 
-
-
-- Reflection?
-# Memory Management
+## Memory Management
 - [[Managed code와 Unmanaged code]]
 - [[Garbage Collection]]
 - [[Unmanaged Resources]]

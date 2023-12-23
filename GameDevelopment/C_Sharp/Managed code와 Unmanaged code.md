@@ -1,12 +1,10 @@
 #CLR #ManagedCode #UnmanagedCode #JIT #JIT_Compiler #CIL
-
----
 # Managed Code
-> [!check]  `CLR(Common Language Runtime)`에 의해 실행이 제어되는 코드  
+> [!check]  **`CLR(Common Language Runtime)`** 에 의해 실행이 제어되는 코드  
 
-- CLR에 의해 자동으로 코드에 가비지 수집, 유형 검사, 예외 처리, 경계 겸사, 메모리 할당, 유형 안전성 등과 같은 다양한 서비스를 제공 받을 수 있음
+- CLR에 의해 자동으로 코드에 가비지 수집, 유형 검사, 예외 처리, 경계 검사, 메모리 할당, 유형 안전성 등과 같은 다양한 서비스를 제공 받을 수 있음
 - 프로그래머가 위와 같은 내용에 대해 신경 쓸 필요가 없다는 장점이 있음
-- C#, Visual Basic 등과 같은 .NET 위에서 실행될 수 있는 고급 언어 중 하나로 작성됨.
+- C#, Visual Basic 등과 같은 .NET 위에서 실행될 수 있는 고급 언어 중 하나로 작성됨
 - 각 언어 컴파일러가 `Managed code`를 컴파일 할 경우, 기계어로 변환하지 않음
 - 그 대신, `CIL(Common Intermediate Language)`로 변환
 
