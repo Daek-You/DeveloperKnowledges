@@ -32,7 +32,7 @@
 #### 최단 경로(Shortest Path)
 - [**다익스트라 알고리즘(Dijkstra Algorithm)**](다익스트라%20알고리즘(Dijkstra%20Algorithm).md)
 - [**벨만 포드 알고리즘(Bellman-Ford Algorithm)**](벨만%20포드%20알고리즘(Bellman-Ford%20Algorithm).md)
-- ~~[**플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)**](플로이드-워셜%20알고리즘(Floyd-Warshall%20Algorithm).md)~~
+- [**플로이드-워셜 알고리즘(Floyd-Warshall Algorithm)**](플로이드-워셜%20알고리즘(Floyd-Warshall%20Algorithm).md)
 - A-star Algorithm
 
 ## 5. 문제 해결
