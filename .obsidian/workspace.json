@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
+                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a139817785173f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c14f21407a7ea168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerSciences/DataStructure/리스트(List).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
+                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
+                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md"
+                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md"
               }
             }
           }
@@ -150,11 +168,14 @@
   },
   "active": "c08fd2fe2b168f0f",
   "lastOpenFiles": [
-    "ComputerSciences/Algorithm/알고리즘(Algorithm).md",
-    "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
-    "ComputerSciences/Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
-    "README.md",
+    "ComputerSciences/DataStructure/리스트(List).md",
+    "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
+    "ComputerSciences/DataStructure/수식 트리(Expression Tree).md",
     "ComputerSciences/DataStructure/자료구조(Data Structure).md",
+    "README.md",
+    "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
+    "ComputerSciences/Algorithm/알고리즘(Algorithm).md",
+    "ComputerSciences/Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
     "ComputerSciences/DataStructure/그래프(Graph).md",
     "ComputerSciences/Algorithm/Graph/다익스트라 알고리즘(Dijkstra Algorithm).md",
     "GameDevelopment/Unity/Unity.md",
@@ -179,9 +200,6 @@
     "GameDevelopment",
     "탐욕법(Greedy).md",
     "ComputerSciences/Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
-    "ComputerSciences/Algorithm/Graph/유니온 파인드(Union-Find).md",
-    "ComputerSciences/Algorithm/Searching/이진 탐색(Binary Search).md",
-    "ComputerSciences/DataStructure/리스트(List).md",
     "ComputerSciences",
     "ComputerSciences/Algorithm/Searching",
     "ComputerSciences/DataStructure",

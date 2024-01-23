@@ -23,6 +23,7 @@
 - 2-3 Tree, 2-3-4 Tree
 - B-Tree 시리즈
 - 트라이(Trie)
+- [**세그먼트 트리(Segment Tree)**](세그먼트%20트리(Segment%20Tree).md)
 
 ### 그래프(Graph)
 - [**그래프의 개념과 표현**](그래프(Graph).md)
