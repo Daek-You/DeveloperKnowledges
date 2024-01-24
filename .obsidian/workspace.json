@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0013e8023cef000",
+        "id": "002872c607c8e8e4",
         "type": "tabs",
         "children": [
           {
-            "id": "c08fd2fe2b168f0f",
+            "id": "7e5ba37c7532b393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a139817785173f40",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c14f21407a7ea168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerSciences/DataStructure/리스트(List).md",
+                "file": "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
+                "file": "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
+                "file": "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md"
+                "file": "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md"
               }
             }
           }
@@ -166,44 +148,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c08fd2fe2b168f0f",
+  "active": "7e5ba37c7532b393",
   "lastOpenFiles": [
-    "ComputerSciences/DataStructure/리스트(List).md",
-    "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
-    "ComputerSciences/DataStructure/수식 트리(Expression Tree).md",
-    "ComputerSciences/DataStructure/자료구조(Data Structure).md",
+    "ComputerSciences/ComputerArchitecture/컴퓨터구조(Computer Architecture).md",
     "README.md",
-    "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
+    "Excalidraw/Drawing 2023-12-10 10.29.49.excalidraw.md",
+    "Resources/Images/컴퓨터구조 전체 그림.png",
+    "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md",
+    "ComputerSciences/ComputerArchitecture",
+    "ComputerSciences/OperatingSystem/운영체제(Operating System).md",
     "ComputerSciences/Algorithm/알고리즘(Algorithm).md",
+    "ComputerSciences/OperatingSystem",
+    "GameDevelopment/C_Sharp/C sharp.md",
+    "GameDevelopment/C_Sharp/Delegate vs. Event.md",
+    "GameDevelopment/C_Sharp/Boxing And UnBoxing.md",
+    "GameDevelopment/Unity/Unity.md",
+    "ComputerSciences/DataStructure/자료구조(Data Structure).md",
+    "ComputerSciences/DataStructure/세그먼트 트리(Segment Tree).md",
+    "ComputerSciences/DataStructure/리스트(List).md",
+    "ComputerSciences/DataStructure/수식 트리(Expression Tree).md",
+    "ComputerSciences/Algorithm/Graph/플로이드-워셜 알고리즘(Floyd-Warshall Algorithm).md",
     "ComputerSciences/Algorithm/Graph/벨만 포드 알고리즘(Bellman-Ford Algorithm).md",
     "ComputerSciences/DataStructure/그래프(Graph).md",
     "ComputerSciences/Algorithm/Graph/다익스트라 알고리즘(Dijkstra Algorithm).md",
-    "GameDevelopment/Unity/Unity.md",
     "GameDevelopment/Unity/Scriptable Object.md",
     "GameDevelopment/Unity/Unity Garbage Collection.md",
     "GameDevelopment/Unity/코루틴(Coroutine).md",
     "GameDevelopment/Unity/Fake Null.md",
-    "GameDevelopment/C_Sharp/C sharp.md",
-    "GameDevelopment/C_Sharp/Delegate vs. Event.md",
-    "GameDevelopment/C_Sharp/Boxing And UnBoxing.md",
     "GameDevelopment/C_Sharp/Const vs. Readonly.md",
     "GameDevelopment/C_Sharp/Reflection And Attribute.md",
     "GameDevelopment/C_Sharp/CLR (Common Language Runtime).md",
-    "GameDevelopment/C_Sharp/Garbage Collection.md",
-    "GameDevelopment/C_Sharp/Managed code와 Unmanaged code.md",
-    "GameDevelopment/C_Sharp/Unmanaged Resources.md",
     "GameDevelopment/Game Mathemathics",
     "GameDevelopment/C_Sharp",
     "GameDevelopment/Unity",
     "GameDevelopment/C_Sharp/C sharp Topics",
     "공부",
     "GameDevelopment",
-    "탐욕법(Greedy).md",
-    "ComputerSciences/Algorithm/Graph/프림 알고리즘(Prim's Algorithm).md",
     "ComputerSciences",
     "ComputerSciences/Algorithm/Searching",
-    "ComputerSciences/DataStructure",
-    "ComputerSciences/Algorithm/Sorting",
     "Resources/Images/리스트.png",
     "Pasted image 20231210103904.png",
     "링크드 리스트.png"

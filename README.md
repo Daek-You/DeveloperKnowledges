@@ -11,10 +11,11 @@
 
 - [**자료구조(Data Structure)**](./ComputerSciences/DataStructure/자료구조(Data%20Structure).md)
 - [**알고리즘(Algorithm)**](./ComputerSciences/Algorithm/알고리즘(Algorithm).md)
-- 운영체제(Operating System)
+- [**운영체제(Operating System)**](./ComputerSciences/OperatingSystem/운영체제(Operating%20System).md)
+- [**컴퓨터구조(Computer Architecture)**](./ComputerSciences/ComputerArchitecture/컴퓨터구조(Computer%20Architecture).md)
 - 네트워크(Network)
 - 컴퓨터 그래픽스(Computer Graphics)
-- 데이터베이스(Data Base)
+- 데이터베이스(DataBase)
 ---
 # 🎮Game Developer
 - 게임 수학(Game Mathemathics)
