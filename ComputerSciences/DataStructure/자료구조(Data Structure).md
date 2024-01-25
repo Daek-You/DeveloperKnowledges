@@ -22,7 +22,7 @@
 - 균형 이진 탐색 트리(Balanced Binary Search Tree)
 - 2-3 Tree, 2-3-4 Tree
 - B-Tree 시리즈
-- 트라이(Trie)
+- [**트라이(Trie)**](트라이(Trie).md)
 - [**세그먼트 트리(Segment Tree)**](세그먼트%20트리(Segment%20Tree).md)
 
 ### 그래프(Graph)
