@@ -16,6 +16,7 @@
 - KMP 알고리즘(Knuth Morris Prett Algorithm)
 - 보이어-무어 알고리즘(Boyer-Moore Algorithm)  
 - 정규 표현식(Regular Expression)
+- [**트라이(Trie)**](../DataStructure/트라이(Trie).md)
 
 ## 4. 그래프 알고리즘 (Graph Algorithm)
 
@@ -37,7 +38,7 @@
 
 ## 5. 문제 해결
 
-#### 탐욕법(Greedy)
-
-#### 동적 계획법(Dynamic Programming)
-
+- 탐욕법(Greedy)
+- 동적계획법(Dynamic Programming)
+- 분할정복법(Divide and Conquer)
+- [**투 포인터(Two Pointer)**](./ProblemSolving/투%20포인터(Two%20Pointer).md)

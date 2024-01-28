@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerSciences/DataStructure/트라이(Trie).md",
-                "mode": "source",
+                "file": "ComputerSciences/Algorithm/ProblemSolving/투 포인터(Two Pointer).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerSciences/DataStructure/트라이(Trie).md",
+                "file": "ComputerSciences/Algorithm/ProblemSolving/투 포인터(Two Pointer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerSciences/DataStructure/트라이(Trie).md",
+                "file": "ComputerSciences/Algorithm/ProblemSolving/투 포인터(Two Pointer).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerSciences/DataStructure/트라이(Trie).md"
+                "file": "ComputerSciences/Algorithm/ProblemSolving/투 포인터(Two Pointer).md"
               }
             }
           }
@@ -150,16 +150,20 @@
   },
   "active": "7e5ba37c7532b393",
   "lastOpenFiles": [
-    "ComputerSciences/DataStructure/자료구조(Data Structure).md",
-    "README.md",
+    "ComputerSciences/Algorithm/알고리즘(Algorithm).md",
+    "ComputerSciences/Algorithm/ProblemSolving/투 포인터(Two Pointer).md",
+    "ComputerSciences/Algorithm/ProblemSolving",
     "ComputerSciences/DataStructure/트라이(Trie).md",
+    "ComputerSciences/Algorithm/Sorting/외부 정렬(External Sorting).md",
+    "ComputerSciences/Algorithm/Sorting/내부 정렬(Internal Sorting).md",
+    "README.md",
+    "ComputerSciences/DataStructure/자료구조(Data Structure).md",
     "ComputerSciences/ComputerArchitecture/Computer Architecture Overview.md",
     "ComputerSciences/ComputerArchitecture/컴퓨터구조(Computer Architecture).md",
     "Excalidraw/Drawing 2023-12-10 10.29.49.excalidraw.md",
     "Resources/Images/컴퓨터구조 전체 그림.png",
     "ComputerSciences/ComputerArchitecture",
     "ComputerSciences/OperatingSystem/운영체제(Operating System).md",
-    "ComputerSciences/Algorithm/알고리즘(Algorithm).md",
     "ComputerSciences/OperatingSystem",
     "GameDevelopment/C_Sharp/C sharp.md",
     "GameDevelopment/C_Sharp/Delegate vs. Event.md",
@@ -176,9 +180,6 @@
     "GameDevelopment/Unity/Unity Garbage Collection.md",
     "GameDevelopment/Unity/코루틴(Coroutine).md",
     "GameDevelopment/Unity/Fake Null.md",
-    "GameDevelopment/C_Sharp/Const vs. Readonly.md",
-    "GameDevelopment/C_Sharp/Reflection And Attribute.md",
-    "GameDevelopment/C_Sharp/CLR (Common Language Runtime).md",
     "GameDevelopment/Game Mathemathics",
     "GameDevelopment/C_Sharp",
     "GameDevelopment/Unity",
@@ -186,7 +187,6 @@
     "공부",
     "GameDevelopment",
     "ComputerSciences",
-    "ComputerSciences/Algorithm/Searching",
     "Resources/Images/리스트.png",
     "Pasted image 20231210103904.png",
     "링크드 리스트.png"
