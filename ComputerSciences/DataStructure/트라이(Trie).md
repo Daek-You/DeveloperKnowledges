@@ -9,18 +9,17 @@
 - 찾고자 하는 문자열의 길이가 $m$ 이라면, 이게 곧 시간 복잡도가 됨
 	- 구현 방법에 따라 시간 복잡도가 조금 달라질 수 있음
 - 메모리 공간을 많이 사용하는 대신, 고속으로 탐색할 수 있는 강력함을 자랑
+- 접두사를 얻을 수 있음
 
-<br>
 
 ## 2. 트라이의 구현 방법
 
 ### 1) 배열
 
-- 문자열 집합의 개수($n$)와 문자열의 길이($m$)가 작다면 가능한 방법 👉🏻 $\mathrm{O(m)}$
+- 문자열 집합의 개수($n$)와 문자열의 길이($m$)가 작다면, `배열`을 통해 구현 가능
 	- 작다의 기준은 **`메모리 사용량 < 256MB`**
-- 2차원 배열에서 현재 노드의 위치를 `i`, `j`라고 한다면 `trie[i][j]` 에 접근하는 시간은 $\mathrm{O(1)}$
-	- 이를 $m$ 번 반복하기 때문에 $\mathrm{O(m)}$ 의 시간 복잡도가 나오는 것
-- 다음 소스 코드는 소문자 알파벳으로만 구성된 단어들을 관리하는 트라이 예
+	- 알파벳 단어들(a ~ z 또는 A ~ Z), 숫자(0 ~ 10)
+- 다음 소스 코드는 소문자 알파벳으로만 구성된 단어들을 관리하는 트라이 예([BOJ - 5052](https://www.acmicpc.net/problem/5052))
 ```cpp
 #include <iostream>
 #include <vector>
@@ -29,80 +28,97 @@ using namespace std;
 
 struct Node
 {
-    Node(int N) : children(N, nullptr) { }
+    Node(int N) : children(N, nullptr), isFinished(false), hasChild(false) { }
     ~Node()
     {
-        for (const Node* child : children)
+        for (Node* child : children)
             if (child != nullptr)
                 delete child;
     }
 
-    bool isFinished = false;
+    bool isFinished;
+    bool hasChild;
     vector<Node*> children;
 };
 
 class Trie
 {
 public:
+    Trie(int size, char startCharacter) : _size(size), _startCharacter(startCharacter)
+    {
+        _root = new Node(size);
+    }
+
+    ~Trie() { delete _root; }
+
     void Insert(const string& word);
-    string Find(const string& word);
-
-    ~Trie();
-private:
-    void Insert(const string& word, Node* node, int index);
-    bool Find(const string& word, Node* node, int index);
+    bool ContainsPrefixWord(const string& word)
+    { 
+	    return ContainsPrefixWord(word, _root, 0);
+	}
 
 private:
-    const int WORD_COUNT = 26;
-    const char START_CHARACTER = 'a';
-    Node* _root = new Node(WORD_COUNT);
+    bool ContainsPrefixWord(const string& word, Node* currentNode, int wordIndex);
+
+private:
+    const int _size;
+    const char _startCharacter;
+    Node* _root = nullptr;
 };
 ```  
 
 ```cpp
-Trie::~Trie()
-{
-    for (const Node* node : _root->children)
-        if (node != nullptr)
-            delete node;
-}
-
 void Trie::Insert(const string& word)
 {
-    Insert(word, _root, 0);
-}
+    Node* currentNode = _root;
 
-void Trie::Insert(const string& word, Node* node, int index)
-{
-    if (index == word.size())
+    for (const char& character : word)
     {
-        node->isFinished = true;
-        return;
+        int index = character - _startCharacter;
+        if (currentNode->children[index] == nullptr)
+        {
+            currentNode->children[index] = new Node(_size);
+            currentNode->hasChild = true;
+        }
+        
+        currentNode = currentNode->children[index];
     }
 
-    int charIndex = word[index] - START_CHARACTER;
-    if (node->children[charIndex] == nullptr)
-        node->children[charIndex] = new Node(WORD_COUNT);
-    Insert(word, node->children[charIndex], index + 1);
+    currentNode->isFinished = true;
 }
 
-string Trie::Find(const string& word)
+bool Trie::ContainsPrefixWord(const string& word, Node* currentNode, int wordIndex)
 {
-    return Find(word, _root, 0) ? "YES" : "NO";
-}
+    // 끝까지 다 찾았는데, 현재 단어를 접두사로 가지는 더 긴 단어가 없는 경우
+    if (wordIndex >= word.length() and !currentNode->hasChild)
+        return false;
 
-bool Trie::Find(const string& word, Node* node, int index)
-{
-    if (index == word.size())
-        return node->isFinished;
+    // 끝까지 다 찾았는데, 현재 단어를 접두사로 가지는 더 긴 단어가 있는 경우
+    if (wordIndex >= word.length() and currentNode->hasChild)
+        return true;
 
-    int charIndex = word[index] - START_CHARACTER;
-    return node->children[charIndex] != nullptr ? Find(word, node->children[charIndex], index + 1) : false;
+    // 현재 단어보다 짧은 접두사 단어가 존재하는 경우
+    if (currentNode->isFinished)
+        return true;
+
+    int index = word[wordIndex] - _startCharacter;
+    return ContainsPrefixWord(word, currentNode->children[index], wordIndex + 1);
 }
+```  
+
+### 2) 이진 검색 트리, 해시
+
+- $n$과 $m$이 크다면 **`BST(std::map)`** 나 **`해시(unordered_map)`** 와 같은 자료구조를 활용
+- 다음 글자를 Key, 그에 대응되는 노드 주소를 Value로 하여 관리
+
+```cpp
+작성 중...
 ```
 
 
-### 2) map
+## 3. 트라이의 성능 분석
 
-- 문자열 집합의 개수($n$)와 문자열의 길이($m$)가 큰 경우에 사용 👉🏻 $\mathrm{O(m \times log(n))}$
-- 
+문자열 집합의 개수를 $N$, 찾고자 하는 문자열의 길이를 $M$이라고 한다면 다음과 같다.
+- 배열을 사용할 경우, 문자열 길이만큼 시간이 걸림 👉🏻 $\mathrm{O(M)}$
+- 이진 검색 트리를 활용할 경우, 탐색 시간 $\mathrm{O(logN)}$이 문자열 길이만큼 반복 👉🏻 $\mathrm{O(M \times log(N))}$
+- 해시를 활용할 경우, 해시 충돌이 일어나지 않는다면 배열과 비슷한 성능을 보여줌
