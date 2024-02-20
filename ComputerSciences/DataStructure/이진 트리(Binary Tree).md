@@ -1,6 +1,6 @@
 ## 1. 이진 트리(Binary Tree)란?
 
-![이진 트리](https://i.namu.wiki/i/59LWn3f8_eNGViAn3B4Fn7PDpL802gevs7nPz-hAd3epT2eKPI7bFA7ZyWgvs__ggzq4BJFEm-fyRELROJFf_A5VSdJks7RwrRSWq7gr-r6ROZkz8FF0kkekmAlOYGGS4ZEKYh9MYdWn4rk_ieN-AA.gif)  
+![이진 트리](https://i.namu.wiki/i/cavIkglcyZuMlVBIsGCt0K0sDMN0mr6OPWHZgp3PojSYjfmdnrHbXJyBYc_2dEmlRkpNIPknYLy_gHIXyID2n_IHDbFUicfkCLUonpJmhkILQwQ87mDTWktpb8N4iyaR5-uD-oK_MDbYJv2J3YAJ6A.webp)    
 출처 : [나무위키](https://namu.wiki/w/%ED%8A%B8%EB%A6%AC(%EA%B7%B8%EB%9E%98%ED%94%84))  
 
 ```cpp

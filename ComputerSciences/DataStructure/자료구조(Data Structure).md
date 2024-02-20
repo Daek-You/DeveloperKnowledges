@@ -34,6 +34,4 @@
 - BFS(Breadth First Search)
 
 ### 해시(Hash)
-- 해시 테이블(Hash Table)  
-- 체이닝(Chaining)
-- 개방 주소법(Open Addressing)
+- [**해시 테이블(Hash Table)**](해시%20테이블(Hash%20Table).md)
