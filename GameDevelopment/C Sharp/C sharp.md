@@ -10,7 +10,7 @@
 - [CLR(Common Language Runtime)](CLR%20(Common%20Language%20Runtime).md)
 
 ## Memory Management
-- [[Managed code와 Unmanaged code]]
-- [[Garbage Collection]]
-- [[Unmanaged Resources]]
+- [Managed code와 Unmanaged code](Managed%20code와%20Unmanaged%20code.md)
+- [Garbage Collection](Garbage%20Collection.md)
+- [Unmanaged Resources](Unmanaged%20Resources.md)
 

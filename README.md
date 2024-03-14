@@ -20,7 +20,7 @@
 # 🎮Game Developer
 - 게임 수학(Game Mathemathics)
 - [**Unity**](./GameDevelopment/Unity/Unity.md)
-- [**C#**](./GameDevelopment/C_Sharp/C%20Sharp.md)
+- [**C#**](./GameDevelopment/C%20Sharp/C%20sharp.md)
 - Unreal Engine
 - C++
 - DirectX
