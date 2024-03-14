@@ -19,7 +19,9 @@
 - 메모리를 직접 할당할 수 없다.
 - CPU Architecture에 대한 Low-Level 접근을 얻을 수 없다.
 <br>
+
 ## Common Intermediate Language
+
 > [!check] `.NET High-Level 언어로 작성된 Managed code`를 컴파일 한 산출물  
 
 ![JIT Compile](https://media.geeksforgeeks.org/wp-content/uploads/20190410185504/Working-of-JIT-Compiler1.png)

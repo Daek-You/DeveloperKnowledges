@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameDevelopment/C Sharp/C sharp.md",
-                "mode": "preview",
+                "file": "GameDevelopment/C Sharp/Garbage Collection.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameDevelopment/C Sharp/C sharp.md",
+                "file": "GameDevelopment/C Sharp/Garbage Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameDevelopment/C Sharp/C sharp.md",
+                "file": "GameDevelopment/C Sharp/Garbage Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameDevelopment/C Sharp/C sharp.md"
+                "file": "GameDevelopment/C Sharp/Garbage Collection.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "7e5ba37c7532b393",
   "lastOpenFiles": [
+    "GameDevelopment/C Sharp/C sharp.md",
+    "GameDevelopment/C Sharp/Managed code와 Unmanaged code.md",
     "README.md",
     "GameDevelopment/Unity/Unity.md",
-    "GameDevelopment/C Sharp/C sharp.md",
     "GameDevelopment/C Sharp/Unmanaged Resources.md",
     "GameDevelopment/C Sharp/Garbage Collection.md",
-    "GameDevelopment/C Sharp/Managed code와 Unmanaged code.md",
     "GameDevelopment/C Sharp/CLR (Common Language Runtime).md",
     "ComputerSciences/ComputerArchitecture/컴퓨터구조(Computer Architecture).md",
     "ComputerSciences/ComputerArchitecture/Data.md",
